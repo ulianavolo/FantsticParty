@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: PaleTurquoise;
+    padding: 10px;
+    border-radius: 10px;
+}
+header a{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+header b{
+    color: navy;
+    font-family: sans-serif;
+}
+main h1{
+    text-align: center;
+    border: 5px solid blueviolet;
+    color: rgb(235, 188, 60);
+    border-radius: 10px;
+}
+footer p{
+    background-color: rgb(35, 228, 17);
+    padding: 5px;
+}
+nav{
+background-color: rgb(31, 31, 155);
+padding: 10px;
+border-radius: 5px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.main{
+    background-color: coral;
+    padding: 10px;
+    border-radius: 5px;
+}
+.prop{
+    color: darkblue;
+}
